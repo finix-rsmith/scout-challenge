@@ -1,12 +1,14 @@
 # scout-challenge
 >> Scout code challenge: turn integers into words.
 
-1. Navigate to root directory:
+###### User instructions
+
+1. Navigate into root directory:
 ```
 $ cd ~
 ```
 
-2. Clone or download repository and:
+2. Clone repository:
 ```
 $ git clone https://github.com/finix-rsmith/scout-challenge.git
 ```
@@ -16,12 +18,12 @@ $ git clone https://github.com/finix-rsmith/scout-challenge.git
 $ cd scout-challenge
 ```
 
-4. Install app dependencies:
+4. Install dependencies:
 ```
 $ npm install
 ```
 
-5. Start app to get input prompt:
+5. Start app (input prompt):
 ```
 $ npm start
 ```
