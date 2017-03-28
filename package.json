@@ -1,0 +1,20 @@
+{
+  "name": "scout-challenge",
+  "version": "1.0.0",
+  "description": "Scout code challenge",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "mocha"
+  },
+  "author": "Richard Smith",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
